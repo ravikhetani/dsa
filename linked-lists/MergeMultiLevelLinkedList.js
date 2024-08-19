@@ -1,7 +1,3 @@
-/*
-NOTE: The beginning portion builds our test case linked list. Scroll down to the section titled Our Solution for the code solution!
- */
-
 class ListNode {
   constructor(val, next = null, prev = null) {
     this.val = val;
